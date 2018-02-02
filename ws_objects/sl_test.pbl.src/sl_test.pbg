@@ -1,0 +1,14 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "sl_test.pbl" "";
+@end;
+@begin Objects 
+ "sl_test.sra" "sl_test.pbl";
+ "dw_session.srd" "sl_test.pbl";
+ "n_cst_httpclient.sru" "sl_test.pbl";
+ "n_cst_internet.sru" "sl_test.pbl";
+ "n_cst_jsonparser.sru" "sl_test.pbl";
+ "n_cst_restclient.sru" "sl_test.pbl";
+ "pfc_n_cst_string.sru" "sl_test.pbl";
+ "w_test.srw" "sl_test.pbl";
+@end;
